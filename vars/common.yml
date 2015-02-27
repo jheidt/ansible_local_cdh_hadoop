@@ -1,4 +1,4 @@
-downloads: ~/.ansible-downloads/
+downloads: /tmp/ansible-downloads/
 install_dir: /opt/cdh-5.3.1
 
 # versions
